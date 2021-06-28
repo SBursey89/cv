@@ -1,0 +1,47 @@
+a {
+  font-family: cursive;
+}
+
+html{
+    background: url('http://i.stack.imgur.com/jGlzr.png') no-repeat 0 0 scroll;
+    background-color:#0C0C0C;
+    background-size: 100% 100%;
+    min-height: 100%;
+    width:auto;
+}
+    body {
+      font-family:sans-serif;
+
+    }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 5%;
+  }
+  h1 {
+    color: black;
+    font-family: cursive;
+  }
+
+  h3 {
+    color: black;
+    font-family: cursive;
+  }
+label{
+  font-family: cursive;
+}
+
+  li {
+    font-family: cursive;
+  }
+  .mypic {
+    border-radius: 50%;
+  }
+  p {
+font-family: cursive;
+  }
+  table {
+    font-family: cursive;
+  }
